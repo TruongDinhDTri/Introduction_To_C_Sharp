@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\lmatrenlop\lmatrenlop\bin\Debug\lmatrenlop.exe.config
+C:\Users\Administrator\source\repos\lmatrenlop\lmatrenlop\bin\Debug\lmatrenlop.exe
+C:\Users\Administrator\source\repos\lmatrenlop\lmatrenlop\bin\Debug\lmatrenlop.pdb
+C:\Users\Administrator\source\repos\lmatrenlop\lmatrenlop\obj\Debug\lmatrenlop.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\lmatrenlop\lmatrenlop\obj\Debug\lmatrenlop.Form1.resources
+C:\Users\Administrator\source\repos\lmatrenlop\lmatrenlop\obj\Debug\lmatrenlop.Properties.Resources.resources
+C:\Users\Administrator\source\repos\lmatrenlop\lmatrenlop\obj\Debug\lmatrenlop.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\lmatrenlop\lmatrenlop\obj\Debug\lmatrenlop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\lmatrenlop\lmatrenlop\obj\Debug\lmatrenlop.exe
+C:\Users\Administrator\source\repos\lmatrenlop\lmatrenlop\obj\Debug\lmatrenlop.pdb

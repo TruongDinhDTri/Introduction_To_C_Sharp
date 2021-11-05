@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\testdattbaleforth3\testdattbaleforth3\bin\Debug\testdattbaleforth3.exe.config
+C:\Users\Administrator\source\repos\testdattbaleforth3\testdattbaleforth3\bin\Debug\testdattbaleforth3.exe
+C:\Users\Administrator\source\repos\testdattbaleforth3\testdattbaleforth3\bin\Debug\testdattbaleforth3.pdb
+C:\Users\Administrator\source\repos\testdattbaleforth3\testdattbaleforth3\obj\Debug\testdattbaleforth3.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\testdattbaleforth3\testdattbaleforth3\obj\Debug\testdattbaleforth3.Form1.resources
+C:\Users\Administrator\source\repos\testdattbaleforth3\testdattbaleforth3\obj\Debug\testdattbaleforth3.Properties.Resources.resources
+C:\Users\Administrator\source\repos\testdattbaleforth3\testdattbaleforth3\obj\Debug\testdattbaleforth3.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\testdattbaleforth3\testdattbaleforth3\obj\Debug\testdattbaleforth3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\testdattbaleforth3\testdattbaleforth3\obj\Debug\testdattbaleforth3.exe
+C:\Users\Administrator\source\repos\testdattbaleforth3\testdattbaleforth3\obj\Debug\testdattbaleforth3.pdb

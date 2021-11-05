@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\BTASKEESIMULATOR\BTASKEESIMULATOR\bin\Debug\BTASKEESIMULATOR.exe.config
+C:\Users\Administrator\source\repos\BTASKEESIMULATOR\BTASKEESIMULATOR\bin\Debug\BTASKEESIMULATOR.exe
+C:\Users\Administrator\source\repos\BTASKEESIMULATOR\BTASKEESIMULATOR\bin\Debug\BTASKEESIMULATOR.pdb
+C:\Users\Administrator\source\repos\BTASKEESIMULATOR\BTASKEESIMULATOR\obj\Debug\BTASKEESIMULATOR.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BTASKEESIMULATOR\BTASKEESIMULATOR\obj\Debug\BTASKEESIMULATOR.Properties.Resources.resources
+C:\Users\Administrator\source\repos\BTASKEESIMULATOR\BTASKEESIMULATOR\obj\Debug\BTASKEESIMULATOR.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\BTASKEESIMULATOR\BTASKEESIMULATOR\obj\Debug\BTASKEESIMULATOR.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BTASKEESIMULATOR\BTASKEESIMULATOR\obj\Debug\BTASKEESIMULATOR.exe
+C:\Users\Administrator\source\repos\BTASKEESIMULATOR\BTASKEESIMULATOR\obj\Debug\BTASKEESIMULATOR.pdb
+C:\Users\Administrator\source\repos\BTASKEESIMULATOR\BTASKEESIMULATOR\obj\Debug\BTASKEESIMULATOR.pnlfinishedactivity.resources
