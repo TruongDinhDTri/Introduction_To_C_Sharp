@@ -97,6 +97,12 @@
     <Compile Include="reportVIEW_BillOnline.Designer.cs">
       <DependentUpon>reportVIEW_BillOnline.cs</DependentUpon>
     </Compile>
+    <Compile Include="reportVIEW_BillVinMart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportVIEW_BillVinMart.Designer.cs">
+      <DependentUpon>reportVIEW_BillVinMart.cs</DependentUpon>
+    </Compile>
     <Compile Include="SqlServerTypes\Loader.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -120,6 +126,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="reportVIEW_BillOnline.resx">
       <DependentUpon>reportVIEW_BillOnline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportVIEW_BillVinMart.rdlc" />
+    <EmbeddedResource Include="reportVIEW_BillVinMart.resx">
+      <DependentUpon>reportVIEW_BillVinMart.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Report_BillKidPlaza.rdlc">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>

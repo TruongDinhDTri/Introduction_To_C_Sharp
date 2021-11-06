@@ -76,3 +76,4 @@ C:\Users\Administrator\source\repos\BAITAPBUOI10\BAITAPBUOI10\bin\Debug\reportVI
 C:\Users\Administrator\source\repos\BAITAPBUOI10\BAITAPBUOI10\bin\Debug\reportVIEW_BillKidPlaza.Designer.cs
 C:\Users\Administrator\source\repos\BAITAPBUOI10\BAITAPBUOI10\bin\Debug\Report_BillKidPlaza.rdlc
 C:\Users\Administrator\source\repos\BAITAPBUOI10\BAITAPBUOI10\obj\Debug\BAITAPBUOI10.reportVIEW_BillOnline.resources
+C:\Users\Administrator\source\repos\BAITAPBUOI10\BAITAPBUOI10\obj\Debug\BAITAPBUOI10.reportVIEW_BillVinMart.resources

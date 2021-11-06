@@ -76,8 +76,12 @@ namespace BAITAPBUOI10
 
 
 
-            reportVIEW_BillOnline f = new reportVIEW_BillOnline();
-            f.LoadReport(dt);
+            ///reportVIEW_BillOnline f = new reportVIEW_BillOnline();
+            ///f.LoadReport(dt);
+            ///f.Show();
+
+            reportVIEW_BillVinMart f = new reportVIEW_BillVinMart();
+            f.LoadReport(dt, txta_khuyenmai.Text);
             f.Show();
         }
     }
