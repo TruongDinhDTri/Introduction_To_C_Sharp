@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\DOANC_Sharp\DOANC_Sharp\bin\Debug\DOANC_Sharp.exe.config
+C:\Users\Administrator\Desktop\DOANC_Sharp\DOANC_Sharp\bin\Debug\DOANC_Sharp.exe
+C:\Users\Administrator\Desktop\DOANC_Sharp\DOANC_Sharp\bin\Debug\DOANC_Sharp.pdb
+C:\Users\Administrator\Desktop\DOANC_Sharp\DOANC_Sharp\obj\Debug\DOANC_Sharp.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DOANC_Sharp\DOANC_Sharp\obj\Debug\DOANC_Sharp.Form1.resources
+C:\Users\Administrator\Desktop\DOANC_Sharp\DOANC_Sharp\obj\Debug\DOANC_Sharp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DOANC_Sharp\DOANC_Sharp\obj\Debug\DOANC_Sharp.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DOANC_Sharp\DOANC_Sharp\obj\Debug\DOANC_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DOANC_Sharp\DOANC_Sharp\obj\Debug\DOANC_Sharp.exe
+C:\Users\Administrator\Desktop\DOANC_Sharp\DOANC_Sharp\obj\Debug\DOANC_Sharp.pdb

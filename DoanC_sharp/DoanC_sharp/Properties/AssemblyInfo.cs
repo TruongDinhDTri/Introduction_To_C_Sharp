@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DoanC_sharp")]
+[assembly: AssemblyTitle("DOANC_Sharp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DoanC_sharp")]
+[assembly: AssemblyProduct("DOANC_Sharp")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("320ceabc-ba02-45e0-b7ef-fad4ff69d1bc")]
+[assembly: Guid("ab355e6e-1281-4c43-a72a-79f9a035bfb2")]
 
 // Version information for an assembly consists of the following four values:
 //
