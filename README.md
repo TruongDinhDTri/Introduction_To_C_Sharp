@@ -1,1 +1,2 @@
-# Cs551_Introdution-to-C_Sharp
+# Hello Guys
+<p>Here are some of my personal projects for the C# course. Hope you guys enjoys it</p>
